@@ -96,7 +96,39 @@
     <h2>Available Truck Units</h2>
     <div class="truck-gallery" id="truckGallery">
       <!-- Truck cards will be loaded here -->
+    </div><section id="services">
+  <h2>Available Trucks</h2>
+  <div class="truck-gallery">
+    <div class="truck-card">
+      <img src="https://i.imgur.com/9FXSm9U.jpeg" alt="Isuzu Forward" />
+      <h3>Isuzu Forward</h3>
     </div>
+    <div class="truck-card">
+      <img src="https://i.imgur.com/7Vcl2Ow.jpeg" alt="Mitsubishi Fuso Fighter" />
+      <h3>Mitsubishi Fuso Fighter</h3>
+    </div>
+    <div class="truck-card">
+      <img src="https://i.imgur.com/9eiuTex.jpg" alt="Isuzu Forward (Newer Model)" />
+      <h3>Isuzu Forward (Newer Model)</h3>
+    </div>
+    <div class="truck-card">
+      <img src="https://i.imgur.com/z6lL8a3.jpg" alt="Mitsubishi Fuso Fighter Dump" />
+      <h3>Fuso Fighter Dump Truck</h3>
+    </div>
+    <div class="truck-card">
+      <img src="https://i.imgur.com/QEL3vJm.jpg" alt="Isuzu Elf Flatbed" />
+      <h3>Isuzu Elf Flatbed</h3>
+    </div>
+    <div class="truck-card">
+      <img src="https://i.imgur.com/97CrJiV.jpg" alt="Isuzu Forward Dump" />
+      <h3>Isuzu Forward Dump Truck</h3>
+    </div>
+    <div class="truck-card">
+      <img src="https://i.imgur.com/xyBdreB.jpg" alt="Isuzu Forward Wing Van" />
+      <h3>Isuzu Forward Wing Van</h3>
+    </div>
+  </div>
+
   </section>
 
   <section class="section" id="contact">
